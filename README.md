@@ -29,4 +29,18 @@ To run this project locally:
 
 ```bash
 git clone https://github.com/AhmedEndrishi/Titanic-Hfz.git
-cd Titanic-Hfz
+cd Titanic-Hfz 
+
+
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to fork this repository and submit a pull request.
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+## 🙌 Acknowledgements
+
+This project is based on the [Kaggle Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic) competition.
