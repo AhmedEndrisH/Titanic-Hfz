@@ -29,7 +29,7 @@ To run this project locally:
 
 ```bash
 git clone https://github.com/AhmedEndrisH/Titanic-Hfz.git
-cd Titanic-Hfz
+cd Titanic-Hfz ```
 
 ## 🤝 Contributing
 
