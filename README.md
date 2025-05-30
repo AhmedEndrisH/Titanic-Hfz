@@ -28,5 +28,5 @@ To run this project locally:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/AhmedEndrisH/Titanic-Hfz.git
-cd Titanic-Hfz 
+git clone https://github.com/AhmedEndrishi/Titanic-Hfz.git
+cd Titanic-Hfz
