@@ -15,6 +15,12 @@ The project utilizes the Titanic dataset to explore and implement different mach
 
 - `Titanic-Survival.ipynb`: A Jupyter Notebook that includes the full machine learning pipeline.
 
+## 🧰 Prerequisites
+
+- Python 3.x  
+- Pandas numpy scikit-learn matplotlib seaborn
+- Jupyter Notebook or JupyterLab  
+
 ## 🚀 Getting Started
 
 To run this project locally:
@@ -25,44 +31,14 @@ To run this project locally:
 git clone https://github.com/AhmedEndrisH/Titanic-Hfz.git
 cd Titanic-Hfz
 
-2. Install Dependencies
-Install the required Python libraries manually:
+## 🤝 Contributing
 
-bash
-Copy
-Edit
-pip install pandas numpy scikit-learn matplotlib seaborn
-Or install them all at once using a requirements file:
+Contributions are welcome! Feel free to fork this repository and submit a pull request.
 
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Note: If requirements.txt is not included, use the manual install command above.
+## 📄 License
 
-3. Run the Notebook
-Launch the Jupyter Notebook:
-
-bash
-Copy
-Edit
-jupyter notebook Titanic-Survival.ipynb
-📦 Dependencies
-pandas
-
-numpy
-
-scikit-learn
-
-matplotlib
-
-seaborn
-
-🤝 Contributing
-Contributions are welcome! Feel free to fork this repository and submit a pull request with improvements or new features.
-
-📄 License
 This project is licensed under the MIT License.
 
-🙌 Acknowledgements
-Based on the Kaggle Titanic: Machine Learning from Disaster competition.
+## 🙌 Acknowledgements
+
+This project is based on the [Kaggle Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic) competition.
