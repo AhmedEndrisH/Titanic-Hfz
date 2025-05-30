@@ -1,0 +1,26 @@
+# Titanic-Hfz
+
+This repository is a machine learning project aimed at predicting passenger survival on the Titanic using various algorithms.
+
+## 📌 Project Overview
+
+The project utilizes the Titanic dataset to explore and implement different machine learning models for classification tasks. It includes:
+
+- Data cleaning
+- Exploratory data analysis
+- Feature selection
+- Model training and evaluation
+
+## 📁 File Structure
+
+- `Titanic-Survival.ipynb`: A Jupyter Notebook that includes the full machine learning pipeline.
+
+## 🚀 Getting Started
+
+To run this project locally:
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/AhmedEndrisH/Titanic-Hfz.git
+cd Titanic-Hfz
